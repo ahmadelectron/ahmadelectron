@@ -23,7 +23,8 @@ I am an **Electronics Engineer** who fell in love with the art of coding. Curren
 
 ### 📫 How to reach me:
 - **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
-- **Email:** (ایمیل خودت رو اینجا بنویس)
+- **Email:** (a.s.electron@gmail.com)
+- **LinkedIn:** (https://www.linkedin.com/in/ahmadsayahi/)
 
 ---
 
