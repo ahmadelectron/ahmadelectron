@@ -6,7 +6,7 @@ I am an **Electronics Engineer** who fell in love with the art of coding. Curren
 ---
 
 ### 🚀 What I'm Up To:
-- 🎓 **Currently Learning:** Intensive Frontend Bootcamp at [Daneshkar](https://daneshkar.com).
+- 🎓 **Currently Learning:** Intensive Frontend Bootcamp at [Daneshkar](https://daneshkar.net/).
 - 🛠️ **Tech Stack:** HTML5, CSS3, JavaScript (Learning React.js next!).
 - 📡 **Background:** Proficient in C, Basic, and Microcontrollers (AVR/ARM).
 - 🌱 **Goal:** To build high-performance, user-centric web applications.
